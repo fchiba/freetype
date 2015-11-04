@@ -1,0 +1,16 @@
+*.o
+*.lo
+builds/unix/a.out
+builds/unix/a.out.js
+builds/unix/config.log
+builds/unix/config.status
+builds/unix/freetype-config
+builds/unix/freetype2.pc
+builds/unix/ftconfig.h
+builds/unix/libtool
+builds/unix/unix-cc.mk
+builds/unix/unix-def.mk
+config.mk
+objs/.libs/
+objs/ftmodule.h
+objs/libfreetype.la
