@@ -14,3 +14,4 @@ config.mk
 objs/.libs/
 objs/ftmodule.h
 objs/libfreetype.la
+build
